@@ -108,10 +108,15 @@ cd Writing-Assistant-
 ### Setting Up Environment Variables
 1. Rename the `.env_example` file to `.env` and edit it to include your actual OpenAI API key:
 
-```bash
 # On Windows
+
+```bash
 rename .env_example .env
-# On Unix/Linux
+```
+
+# On Unix/Linux 
+
+```bash
 mv .env_example .env
 ```
 
