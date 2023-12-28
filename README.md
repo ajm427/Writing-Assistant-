@@ -142,10 +142,10 @@ If you run into any issues during the installation process, consider the followi
 - Confirm that Node.js and npm are correctly installed and that their versions meet the prerequisites.
 - Make sure the `.env` file is in the root directory of the project with the correct API key.
 - If you encounter errors when starting the application, check the console output for error messages that can help diagnose the problem.
-```
 
-```markdown
+
 ## Usage
+
 
 After installing the Writing Assistant, you can begin using it to generate content. Below are instructions on how to start the application and interact with the bot.
 
@@ -191,7 +191,6 @@ Bot: [Provides a detailed section about solar power incentives]
 ```
 
 Follow these instructions to interact with your Writing Assistant effectively and to produce the high-quality content that you need.
-```
 
 ## Contributing
 
@@ -205,6 +204,7 @@ If you find a bug or have a suggestion for an improvement, please open an issue 
 2. **Provide steps to reproduce** the bug, if applicable.
 3. **Include screenshots** or error messages if they help clarify the issue.
 
+
 ### Submitting Pull Requests
 
 To contribute code or documentation changes, please submit a pull request (PR). Here's the general process:
@@ -214,6 +214,7 @@ To contribute code or documentation changes, please submit a pull request (PR). 
 3. **Implement Your Changes**: Add your code or documentation improvements.
 4. **Test Your Changes**: Ensure your changes do not break any existing functionality.
 5. **Submit a Pull Request**: Open a PR to the main Writing Assistant repository. Provide a clear description of your changes and reference any related issues.
+
 
 ### Code Contributions
 
@@ -235,6 +236,6 @@ Your contributions, whether big or small, make a significant impact on the proje
 
 ## Acknowledgements
 
-OpenAI 
+Thank you to OpenAI for their Assistant API.
 
 A special thanks also goes out to the broader community of developers and enthusiasts in the field of AI and machine learning. Their ongoing discussions, resources, and shared knowledge have been invaluable in guiding the development of this project.
